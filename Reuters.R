@@ -2,7 +2,7 @@ library(tm)
 library(ggplot2)
 library(dplyr)
 library(gridExtra)
-
+ 
 
 #50 samples from Reuters (tm package)
 data("acq")
