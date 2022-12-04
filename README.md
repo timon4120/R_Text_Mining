@@ -15,6 +15,6 @@
   - <i>Macbeth</i> ~ W.Shakespeare;
   - <i>Notre-Dame De Paris</i> ~ V.Hugo;
   - <i>Candide</i> ~ Voltaire;
-  - <i>Candide</i> ~ C.Baudelaire.
+  - <i>The Flowers of Evil</i> ~ C.Baudelaire.
   
   All these books come from The Gutenberg Project.
