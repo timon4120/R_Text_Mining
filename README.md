@@ -15,6 +15,10 @@
   - <i>Macbeth</i> ~ W.Shakespeare;
   - <i>Notre-Dame De Paris</i> ~ V.Hugo;
   - <i>Candide</i> ~ Voltaire;
-  - <i>The Flowers of Evil</i> ~ C.Baudelaire.
+  - <i>The Flowers of Evil</i> ~ C.Baudelaire. 
   
   All these books come from The Gutenberg Project.
+
+- <b>Bigrams_graphs</b>: Bigrams and networks of words from two books (both in <b>polish</b> version):
+  - <i>Sklepy cynamonowe</i> ~ B.Schultz;
+  - <i>Sonety krymskie</i> ~ A.Mickiewicz.
