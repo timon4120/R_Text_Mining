@@ -92,7 +92,7 @@ Get_Sentiment_Alignment <- function(nrc_class)
     sign(j - ag))
 }
 
-#Generacja wykresów alignmentu + wordcloudy
+#Generation of alignment charts + wordclouds
 Count_Time_Changes <- function(nrc_classes, overall_nrc_class, who, HiT)
 {
   tmp <- tibble(Value = sapply(1:(length(who[[1]])-1), function(i) Get_Sentiment_Alignment(as_tibble(nrc_classes[,i]))),
