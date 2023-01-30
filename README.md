@@ -41,3 +41,6 @@
   - <i>Emma</i> ~ J.Austen;
   - <i>Sense and Sensibility</i> ~ J.Austen.
    
+- <b>Warsaw_Public_Transport.R</b>: Average speed and route map of a selected Warsaw tram line (and brigade) measured in real time;
+
+- <b>Political leaders of the 20th century</b>: Speeches analysis of political leaders of the 20th century using text mining methods. Project based on dictionary sentiment analysis. Co-authorship: [kor203](https://github.com/kor203).
