@@ -43,7 +43,7 @@ XX <- data.trams
 start <- as_datetime(XX[1,'Time']) %>% seconds() %>% as.numeric()
 XX <- XX %>% mutate(Nth_time = abs(as_datetime(Time) %>% seconds() %>% as.numeric() - start))
 
-register_google("AIzaSyCYgW_vyI25pkvWQDvAnz0I9GbtFsfX-Eg")
+register_google(":)") #GMaps code
 map <- get_googlemap(center = c(lon = 21.00, lat = 52.25), zoom = 12, maptype = "road", color = "bw", language = "PL")
 
 ggmap(map) + geom_point(data = XX, aes(x = Lon, y = Lat, color = Nth_time), size = 3) + 
